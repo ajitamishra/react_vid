@@ -4,7 +4,7 @@
  
  ### Technology used : 
  
- Library : React JS
- languages: Javascript
- others: HTML and CSS
- Editor: Visual Studio
+- Library : React JS 
+ - languages: Javascript
+ - others: HTML and CSS
+ - Editor: Visual Studio
